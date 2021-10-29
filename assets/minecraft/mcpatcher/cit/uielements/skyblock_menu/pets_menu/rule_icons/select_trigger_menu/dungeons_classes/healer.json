@@ -1,0 +1,7 @@
+{
+        "parent": "builtin/generated",
+    "textures": {
+        "layer0": "./healer_blank",
+        "layer1": "./healer"
+    }
+}
