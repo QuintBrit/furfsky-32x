@@ -1106,7 +1106,7 @@ item.prismarineCrystals.name=Prismarine Crystals
 
 container.inventory=Inventory
 container.hopper=Item Hopper
-container.crafting=
+container.crafting=§6FSR Full v1.4.2
 container.dispenser=Dispenser
 container.dropper=Dropper
 container.furnace=Furnace
